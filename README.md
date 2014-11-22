@@ -3,8 +3,7 @@ hello-world
 output:  
     html_document:
         keep_md: true
-        
-# <span style="color:#80BFFF"> Hello World 
+
 ### <span style="color:#045FB4"> A New Beginning for Claudia Pisarek 
 
 > I am a third year Commerce student pursuing a career in finance and international business. Here's a quick overview of myself. I am a born and raised Vancouverite (techincally Coquitlam, but we'll count as Greater Vancouver as it is one of the greatest cities) I am a complete animal lover - _the weirder and softer, the better._ My dream travel destination is Barcelona, Spain but also majority of European cities. My favourite past time is enjoying a strong cup of coffee, a sweet treat and laughing at corny jokes with family and friends.

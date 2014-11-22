@@ -1,8 +1,0 @@
----
-title: "hello-world"
-author: "Claudia"
-date: "Wednesday, November 12, 2014"
-output: html_document
----
-
-please work 
